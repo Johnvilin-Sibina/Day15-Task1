@@ -71,7 +71,7 @@ function clear_table() {
 var h1 = create_h1("h1", "Pagination in DOM Manipulation");
 h1.id = "title";
 
-var para = create_para("p","This task is done using DOM  plain CSS is used for style.");
+var para = create_para("p","This task is done using DOM. Plain CSS is used for style.");
 para.id = "description";
 
 var div1 = create_div("div")
